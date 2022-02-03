@@ -5600,7 +5600,232 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR2mDlBhHZDj8bJcLcaYHKlE/m3u8
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0dnVPJezXpsfvk-JLXWtys/m3u8
 #EXTINF:-1 xui-id="2671380" tvg-id="Zoom.ca" tvg-name="IN: Zoom (CA)" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/Zoom%20%28CA%29.png.png" group-title="INDIAN",IN: Zoom (CA)
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7wPk5nRvmGNLef-nCCPAHw/m3u8
-
+#EXTM3U
+#EXTM3U x-tvg-url="https://tinyurl.com/epg-aptv"
+#EXTINF:-1 group-title="Breaking News" tvg-name="INFO BMKG" tvg-logo="https://i.ibb.co/196KF4T/INFOBMKG.png" ,INFO BMKG
+http://49.128.184.35:25461/178.115.80.30/543.87.888/437
+#EXTINF:-1 group-title="Local FTA" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SKWrTYL/RCTI.png" ,RCTI
+http://49.128.184.35:25461/178.115.80.30/543.87.888/2
+#EXTINF:-1 group-title="Local FTA" tvg-id="3010" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/qCNrFXj/MNCTV.png" ,MNCTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/3
+#EXTINF:-1 group-title="Local FTA" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.ibb.co/z299TFW/GTV.png" ,GTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/5
+#EXTINF:-1 group-title="Local FTA" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" ,Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
+#EXTINF:-1 group-title="Local FTA" tvg-id="3001" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" ,SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+#EXTINF:-1 group-title="Local FTA" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" ,ANTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/12
+#EXTINF:-1 group-title="Local FTA" tvg-id="NET.id" tvg-name="NET. HD" tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" ,NET. HD
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=3394
+#EXTINF:-1 group-title="Local FTA" tvg-id="3011" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/PM7wL90/TRANSTV.png" ,Trans TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/13
+#EXTINF:-1 group-title="Local FTA" tvg-id="3012" tvg-name="Trans7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" ,Trans7
+http://49.128.184.35:25461/178.115.80.30/543.87.888/14
+#EXTINF:-1 group-title="Local FTA" tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co/Hr517NJ/OCHANNEL.png" ,O Channel
+http://49.128.184.35:25461/178.115.80.30/543.87.888/18
+#EXTINF:-1 group-title="Local FTA" tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" ,RTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/19
+#EXTINF:-1 group-title="Local FTA" tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="https://i.ibb.co/82KRC75/TVRI.png" ,TVRI
+http://49.128.184.35:25461/178.115.80.30/543.87.888/21
+#EXTINF:-1 group-title="Local Region" tvg-id="BaliTV.MACAN" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/VY0fK6q/BALITV.png" ,Bali TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/221
+#EXTINF:-1 group-title="Local Region" tvg-name="Elshinta" tvg-logo="https://i.ibb.co/wLQHnwn/ELSHINTATV.png" ,Elshinta
+http://49.128.184.35:25461/178.115.80.30/543.87.888/17
+#EXTINF:-1 group-title="Local Region" tvg-name="Garuda TV" tvg-logo="https://i.ibb.co/tqtj3xr/GARUDATV.png" ,Garuda TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/454
+#EXTINF:-1 group-title="Local Region" tvg-id="JakTV.MACAN" tvg-name="JakTV" tvg-logo="https://i.ibb.co/JB9rnZz/JAKTV.png" ,JakTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/100
+#EXTINF:-1 group-title="Local Region" tvg-name="Jogja TV" tvg-logo="https://i.ibb.co/JdYBjSZ/JOGJATV.png" ,Jogja TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/475
+#EXTINF:-1 group-title="Local Region" tvg-name="Jowo Channel" tvg-logo="https://i.ibb.co/020vdGV/JOWOCHANNEL.png" ,Jowo Channel
+http://49.128.184.35:25461/178.115.80.30/543.87.888/98
+#EXTINF:-1 group-title="Local Region" tvg-name="MyTV" tvg-logo="https://i.ibb.co/T4QFQTQ/MYTV.png" ,MyTV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/234
+#EXTINF:-1 group-title="Local Region" tvg-id="Nusantara.id" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/h2XrNq4/NUSANTARATV.png" ,Nusantara TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/235
+#EXTINF:-1 group-title="Local Region" tvg-name="Sakti TV" tvg-logo="https://i.ibb.co/1GvRTtZ/SAKTITV.png" ,Sakti TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/453
+#EXTINF:-1 group-title="Local Region" tvg-name="Sinjai TV" tvg-logo="https://i.ibb.co/6bRYJG5/SINJAITV.png" ,Sinjai TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/473
+#EXTINF:-1 group-title="Local Region" tvg-name="TATV Solo" tvg-logo="https://i.ibb.co/w0QQQZq/TATV.png" ,TATV Solo
+http://49.128.184.35:25461/178.115.80.30/543.87.888/452
+#EXTINF:-1 group-title="Local Region" tvg-name="TVKU Semarang" tvg-logo="https://i.ibb.co/8DWWpjY/TVKU.png" ,TVKU Semarang
+http://49.128.184.35:25461/178.115.80.30/543.87.888/20
+#EXTINF:-1 group-title="Kids" tvg-id="1AGEC4" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/jLJ3CYv/ANIPLUS.png" ,Aniplus
+http://49.128.184.35:25461/178.115.80.30/543.87.888/94
+#EXTINF:-1 group-title="Kids" tvg-id="1615" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/j3rKLd9/CARTOONNETWORK.png" ,Cartoon Network
+http://49.128.184.35:25461/178.115.80.30/543.87.888/95
+#EXTINF:-1 group-title="Kids" tvg-name="MyKidz" tvg-logo="https://i.ibb.co/T1BcfnM/MYKIDZ.png" ,MyKidz
+http://49.128.184.35:25461/178.115.80.30/543.87.888/116
+#EXTINF:-1 group-title="Kids" tvg-id="1617" tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/rZ0JdwW/NICKJR.png" ,Nick Jr.
+http://49.128.184.35:25461/178.115.80.30/543.87.888/97
+#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/LPf1xKt/ANIMALPLANET.png" ,Animal Planet
+http://49.128.184.35:25461/178.115.80.30/543.87.888/104
+#EXTINF:-1 group-title="Knowledge" tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/fkg1YZg/DISCOVERYASIA.png" ,Discovery Asia
+http://49.128.184.35:25461/178.115.80.30/543.87.888/107
+#EXTINF:-1 group-title="Knowledge" tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" ,History
+http://49.128.184.35:25461/178.115.80.30/543.87.888/121
+#EXTINF:-1 group-title="Knowledge" tvg-id="Lingua.MACAN" tvg-name="Lingua" tvg-logo="https://i.ibb.co/V9WQsbP/LINGUA.png" ,Lingua
+http://49.128.184.35:25461/178.115.80.30/543.87.888/478
+#EXTINF:-1 group-title="Knowledge" tvg-id="2921" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/yVtVfJm/LOVENATURE4-K.png" ,Love Nature 4K
+http://49.128.184.35:25461/178.115.80.30/543.87.888/241
+#EXTINF:-1 group-title="Knowledge" tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" ,National Geographic
+http://49.128.184.35:25461/178.115.80.30/543.87.888/122
+#EXTINF:-1 group-title="Knowledge" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" ,Smithsonian Channel
+http://49.128.184.35:25461/178.115.80.30/543.87.888/231
+#EXTINF:-1 group-title="Knowledge" tvg-id="Techstorm.MACAN" tvg-name="TechStorm" tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" ,TechStorm
+http://49.128.184.35:25461/178.115.80.30/543.87.888/124
+#EXTINF:-1 group-title="Korean" tvg-id="GEMChannel.id" tvg-name="GEM TV Asia" tvg-logo="https://i.ibb.co/9vtsHGL/SONY-GEM.png" ,GEM TV Asia
+http://49.128.184.35:25461/178.115.80.30/543.87.888/45
+#EXTINF:-1 group-title="Korean" tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/D7TWVhk/KPLUS.png" ,K+
+http://49.128.184.35:25461/178.115.80.30/543.87.888/47
+#EXTINF:-1 group-title="Korean" tvg-id="SonyOneHD.MACAN" tvg-name="One" tvg-logo="https://i.ibb.co/9vqfqRp/ONE.png" ,One
+http://49.128.184.35:25461/178.115.80.30/543.87.888/53
+#EXTINF:-1 group-title="Korean" tvg-id="TVNMovies.MACAN" tvg-name="tVN Movies" tvg-logo="https://i.ibb.co/mTddTnk/TVNMOVIES.png" ,tVN Movies
+http://49.128.184.35:25461/178.115.80.30/543.87.888/55
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="CitraDrama.MACAN" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/02CR9hw/CITRADRAMA.png" ,Citra Drama
+http://49.128.184.35:25461/178.115.80.30/543.87.888/40
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="Flik" tvg-name="FliK" tvg-logo="https://i.ibb.co/ZmwNRNt/FLIK.png" ,FliK
+http://49.128.184.35:25461/178.115.80.30/543.87.888/44
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="mycinema.MACAN" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/0GncFKm/MYCINEMA.png" ,My Cinema
+http://49.128.184.35:25461/178.115.80.30/543.87.888/50
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-name="TV5MONDE Asie-Pacifique" tvg-logo="https://i.ibb.co/Jp2CX5L/TV5-ASIAMONDE.png" ,TV5MONDE Asie-Pacifique
+http://49.128.184.35:25461/178.115.80.30/543.87.888/203
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://i.ibb.co/qy2JNzG/WAKUWAKUJAPAN.png" ,Waku Waku Japan
+http://49.128.184.35:25461/178.115.80.30/543.87.888/56
+#EXTINF:-1 group-title="Music" tvg-name="9XM" tvg-logo="https://i.ibb.co/8jzNGSp/9XM.png" ,9XM
+http://49.128.184.35:25461/178.115.80.30/543.87.888/458
+#EXTINF:-1 group-title="Music" tvg-name="Boogle Bollywood" tvg-logo="https://i.ibb.co/QQst7NR/BOOGLE.png" ,Boogle Bollywood
+http://49.128.184.35:25461/178.115.80.30/543.87.888/459
+#EXTINF:-1 group-title="Music" tvg-name="M2O" tvg-logo="https://i.ibb.co/gPLD3N6/M20.png" ,M2O
+http://49.128.184.35:25461/178.115.80.30/543.87.888/460
+#EXTINF:-1 group-title="Music" tvg-name="Maleo Musik" tvg-logo="https://i.ibb.co/844yqD9/MALEO.png" ,Maleo Musik
+http://49.128.184.35:25461/178.115.80.30/543.87.888/457
+#EXTINF:-1 group-title="Music" tvg-name="Spirit Television" tvg-logo="https://i.ibb.co/rZPxnNv/SPIRITTV.png" ,Spirit Television
+http://49.128.184.35:25461/178.115.80.30/543.87.888/466
+#EXTINF:-1 group-title="News" tvg-name="Al Jazeera English" tvg-logo="https://i.ibb.co/mq8BmKS/ALJAZEERA.png" ,Al Jazeera English
+http://49.128.184.35:25461/178.115.80.30/543.87.888/207
+#EXTINF:-1 group-title="News" tvg-name="BeritaSatu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" ,BeritaSatu
+http://49.128.184.35:25461/178.115.80.30/543.87.888/113
+#EXTINF:-1 group-title="News" tvg-name="France 24" tvg-logo="https://i.ibb.co/tzBMB1t/FRANCE24.png" ,France 24
+http://49.128.184.35:25461/178.115.80.30/543.87.888/219
+#EXTINF:-1 group-title="News" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" ,Kompas TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/112
+#EXTINF:-1 group-title="News" tvg-id="MetroTV.MACAN" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" ,Metro TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/206
+#EXTINF:-1 group-title="News" tvg-name="tvOne" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" ,tvOne
+http://49.128.184.35:25461/178.115.80.30/543.87.888/111
+#EXTINF:-1 group-title="Religion" tvg-name="Al-Iman TV" tvg-logo="https://i.ibb.co/9nwgR48/ALIMANTV.png" ,Al-Iman TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/158
+#EXTINF:-1 group-title="Religion" tvg-name="Badar TV" tvg-logo="https://i.ibb.co/n0bJg0v/BADARTV.png" ,Badar TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/455
+#EXTINF:-1 group-title="Religion" tvg-name="IZZAH TV" tvg-logo="https://i.ibb.co/KcZPLxJ/IZZAHTV.png" ,IZZAH TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/160
+#EXTINF:-1 group-title="Religion" tvg-id="RodjaTV.MACAN" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/MZtJtJr/RODJATV.png" ,Rodja TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/73
+#EXTINF:-1 group-title="Religion" tvg-name="Surau TV" tvg-logo="https://i.ibb.co/c3YBCHr/SURAUTV.png" ,Surau TV
+http://49.128.184.35:25461/178.115.80.30/543.87.888/163
+#EXTINF:-1 group-title="Religion" tvg-id="tv9.MACAN" tvg-name="TV MU" tvg-logo="https://i.ibb.co/L5BRjQ6/TVMU.png" ,TV MU
+http://49.128.184.35:25461/178.115.80.30/543.87.888/99
+#EXTINF:-1 group-title="Religion" tvg-id="UChannel.MACAN" tvg-name="U-Channel" tvg-logo="https://i.ibb.co/X3xjFbC/UCHANNEL.png" ,U-Channel
+http://49.128.184.35:25461/178.115.80.30/543.87.888/114
+#EXTINF:-1 group-title="Religion" tvg-name="White Channel Thailand" tvg-logo="https://i.ibb.co/Jt9K5pY/WHITECHANNELTH.png" ,White Channel Thailand
+http://49.128.184.35:25461/178.115.80.30/543.87.888/164
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E01" tvg-logo="https://i.ibb.co/km8Y6TW/ep1.jpg" ,Facetrix S01 E01
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/265.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E02" tvg-logo="https://i.ibb.co/QC9GsLD/ep2.jpg" ,Facetrix S01 E02
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/266.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E03" tvg-logo="https://i.ibb.co/DC1PrSK/ep3.jpg" ,Facetrix S01 E03
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/267.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E04" tvg-logo="https://i.ibb.co/c2cY88p/ep4.jpg" ,Facetrix S01 E04
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/268.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E05" tvg-logo="https://i.ibb.co/x55dPss/ep5.jpg" ,Facetrix S01 E05
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/269.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E06" tvg-logo="https://i.ibb.co/tL7mrdZ/ep6.jpg" ,Facetrix S01 E06
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/270.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E07" tvg-logo="https://i.ibb.co/9cMBp11/ep7.jpg" ,Facetrix S01 E07
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/271.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E08" tvg-logo="https://i.ibb.co/bBV56x8/ep8.jpg" ,Facetrix S01 E08
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/272.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E09" tvg-logo="https://i.ibb.co/W0zQMxt/ep9.jpg" ,Facetrix S01 E09
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/273.mp4
+#EXTINF:-1 group-title="Series Romantis" tvg-name="Facetrix S01 E10" tvg-logo="https://i.ibb.co/74Kc6yb/ep10.jpg" ,Facetrix S01 E10
+http://49.128.184.35:25461/series/178.115.80.30/543.87.888/274.mp4
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI 3 Budaya" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI 3 Budaya
+http://49.128.184.35:25461/178.115.80.30/543.87.888/182
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Aceh" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Aceh
+http://49.128.184.35:25461/178.115.80.30/543.87.888/186
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Bali" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Bali
+http://49.128.184.35:25461/178.115.80.30/543.87.888/187
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Bandung" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Bandung
+http://49.128.184.35:25461/178.115.80.30/543.87.888/185
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Bengkulu" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Bengkulu
+http://49.128.184.35:25461/178.115.80.30/543.87.888/188
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Jakarta" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Jakarta
+http://49.128.184.35:25461/178.115.80.30/543.87.888/184
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Jambi" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Jambi
+http://49.128.184.35:25461/178.115.80.30/543.87.888/189
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Jawa Barat" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Jawa Barat
+http://49.128.184.35:25461/178.115.80.30/543.87.888/190
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Jawa Tengah" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Jawa Tengah
+http://49.128.184.35:25461/178.115.80.30/543.87.888/191
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Jawa Timur" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Jawa Timur
+http://49.128.184.35:25461/178.115.80.30/543.87.888/192
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Kalbar" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Kalbar
+http://49.128.184.35:25461/178.115.80.30/543.87.888/193
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Kalsel" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Kalsel
+http://49.128.184.35:25461/178.115.80.30/543.87.888/194
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Kalteng" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Kalteng
+http://49.128.184.35:25461/178.115.80.30/543.87.888/196
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Kaltim" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Kaltim
+http://49.128.184.35:25461/178.115.80.30/543.87.888/195
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Lampung" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Lampung
+http://49.128.184.35:25461/178.115.80.30/543.87.888/197
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Nasional
+http://49.128.184.35:25461/178.115.80.30/543.87.888/183
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Papua" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Papua
+http://49.128.184.35:25461/178.115.80.30/543.87.888/198
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Sulsel Makasar" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Sulsel Makasar
+http://49.128.184.35:25461/178.115.80.30/543.87.888/199
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Sulteng Palu" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Sulteng Palu
+http://49.128.184.35:25461/178.115.80.30/543.87.888/200
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Sulut Manado" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Sulut Manado
+http://49.128.184.35:25461/178.115.80.30/543.87.888/201
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Sumatra Selatan" tvg-logo="https://i.imgur.com/wIh3qZo.png" ,TVRI Sumatra Selatan
+http://49.128.184.35:25461/178.115.80.30/543.87.888/202
+#EXTINF:-1 group-title="TV Berita Nasional" tvg-name="TVRI Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" ,TVRI Yogyakarta
+http://49.128.184.35:25461/178.115.80.30/543.87.888/82
+#EXTINF:-1 group-title="VIP Movies" tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/dKJt8hM/AXN.png" ,AXN
+http://49.128.184.35:25461/178.115.80.30/543.87.888/23
+#EXTINF:-1 group-title="VIP Movies" tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" ,Cinemax
+http://49.128.184.35:25461/178.115.80.30/543.87.888/24
+#EXTINF:-1 group-title="VIP Movies" tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/j3NMYVH/GALAXY.png" ,Galaxy
+http://49.128.184.35:25461/178.115.80.30/543.87.888/25
+#EXTINF:-1 group-title="VIP Movies" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/1XKrthM/GALAXYPREMIUM.png" ,Galaxy Premium
+http://49.128.184.35:25461/178.115.80.30/543.87.888/26
+#EXTINF:-1 group-title="VIP Movies" tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" ,HBO
+http://49.128.184.35:25461/178.115.80.30/543.87.888/27
+#EXTINF:-1 group-title="VIP Movies" tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/G3dYK77/HBOHITS.png" ,HBO Hits
+http://49.128.184.35:25461/178.115.80.30/543.87.888/29
+#EXTINF:-1 group-title="VIP Movies" tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://i.ibb.co/Mnq1KcF/HITS.png" ,Hits
+http://49.128.184.35:25461/178.115.80.30/543.87.888/31
+#EXTINF:-1 group-title="VIP Movies" tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/T8G25FS/ROCKENTERTAINMENT.png" ,Rock Entertainment
+http://49.128.184.35:25461/178.115.80.30/543.87.888/34
+#EXTINF:-1 group-title="VIP Movies" tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" ,Thrill
+http://49.128.184.35:25461/178.115.80.30/543.87.888/119
+#EXTINF:-1 group-title="VIP Sports" tvg-name="AEW" tvg-logo="https://i.ibb.co/0tSg5kK/AEW.png" ,AEW
+http://49.128.184.35:25461/178.115.80.30/543.87.888/102
+#EXTINF:-1 group-title="VIP Sports" tvg-id="SPOTV.MACAN" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" ,SPOTV 2
+http://49.128.184.35:25461/178.115.80.30/543.87.888/330
+#EXTINF:-1 group-title="VOD International - Action" tvg-name="The Stronghold (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/TLBqesYcDvHiBtnkjA5vTJQsEXRK7jzooH.jpg" ,The Stronghold (2021)
+http://49.128.184.35:25461/movie/178.115.80.30/543.87.888/440.mp4
+#EXTINF:-1 group-title="VOD International - Horror" tvg-name="Motherly (2021)" tvg-logo="https://i.ibb.co/c8yNt5F/images-44.jpg" ,Motherly (2021)
+http://49.128.184.35:25461/movie/178.115.80.30/543.87.888/286.mp4
+#EXTINF:-1 group-title="VOD Local - Horror" tvg-name="DreadOut (2019)" tvg-logo="https://i.ibb.co/XzMKGqv/18040700.jpg" ,DreadOut (2019)
+http://49.128.184.35:25461/movie/178.115.80.30/543.87.888/275.mp4
+#EXTINF:-1 group-title="VOD Local - Horror" tvg-name="Janin (2020)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mkcKmLEkFmBb6yRyR5hFC2xScpP.jpg" ,Janin (2020)
+http://49.128.184.35:25461/movie/178.115.80.30/543.87.888/277.mp4
 
 
 
